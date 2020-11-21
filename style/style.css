@@ -49,10 +49,10 @@ header{
     font-size:48px;
 }
 a{
-   /* color:black;*/
+    color:black;
 }
 a:hover{
-    color:white;
+    color:gray;
 }
 nav{
    /* box-shadow:50px 40px 50px 40px hsl(45,50%,50%);
